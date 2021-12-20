@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<configuration>
+
+	<input>
+		<taz-file vale = "taz_file.taz.xml"/>
+		<od-matrix-files value = "OD_file.od"/>
+	</input>
+
+	<!--
+		<output>
+			<output-file value = "trial.odtrips.xml"/>
+		</output>
+	-->
+
+</configuration>
+

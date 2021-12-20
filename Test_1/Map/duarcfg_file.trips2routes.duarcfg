@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+
+<!-- The duarouter configuration file takes as input your network and the OD Trips File -->
+
+	<input>
+		<net-file value = "map.net.xml"/> 
+		<route-files value = "od_file.odtrips.xml"/>
+	</input>
+
+	<output>
+		<output-file value = "od_route_file.odtrips.rouxml"/>
+	</output>
+
+	<report>
+		<xml-validation value = "never"/>
+		<no-step-log value = "true"/>
+	</report>
+
+</configuration>
