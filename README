@@ -1,0 +1,5 @@
+It is a practice projects about traffic simulation 
+1. Simulations of Packages transmission on NS-3
+2. Implementation of SUMO traffic control (Recording of vehicles info., traffic light and pedestians control)
+3. Implement of using vehicle traces from SUMO and set each vehicle as a node to show trace 
+4. Implementation of SUMO, OMNet++, and Veins (Showing pakages trasmit among nodes(vehicles))   
